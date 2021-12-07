@@ -1,11 +1,10 @@
-# Simple shopping cart
+## Simple shopping cart
 
 This is a front-end challenge proposed by Base2 Tecnologia. 
 
+## How to run it
 
-## Available Scripts
-
-Clone this repo and run the code bellow to install all dependencies:
+Clone this repo and use the code bellow to install all dependencies:
 
 ### `yarn`
 
