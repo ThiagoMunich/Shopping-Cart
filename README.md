@@ -1,6 +1,10 @@
 ## Simple shopping cart
 
-This is a front-end challenge proposed by Base2 Tecnologia. 
+This is a front-end challenge proposed by Base2 Tecnologia.
+
+## Live demo
+
+https://shopping-cart-base2.vercel.app/
 
 ## How to run it
 
